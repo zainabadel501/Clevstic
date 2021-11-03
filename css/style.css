@@ -185,6 +185,10 @@ padding: 5% 15% ;
   margin-bottom: 2%;
 }
 
+#contact_us a {
+  color: white;
+}
+
 .social {
   display: flex;
   align-items:center;
