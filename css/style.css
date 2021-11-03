@@ -9,7 +9,7 @@ colors :
 
 */
 
-@media (max-width: 576px) {
+@media (max-width: 720px) {
   .col-padding {
   margin-bottom: 2rem;
   }
