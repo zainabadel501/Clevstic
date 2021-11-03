@@ -1,0 +1,217 @@
+
+
+/*
+colors :
+#FEF8F0,
+#F9B75D;
+#a7c277;
+
+
+*/
+
+@media (max-width: 576px) {
+  .col-padding {
+  margin-bottom: 2rem;
+  }
+
+}
+
+body {
+font-family: 'Tajawal';
+color: white;
+padding: 2% 2% 0 2%;
+text-align: right;
+}
+
+p {
+
+  white-space:pre-wrap;
+  line-height: 1.5;
+
+}
+
+
+.align-right {
+
+  border-radius: 20px;
+
+}
+
+.row-align {
+  padding-top: 3%;
+}
+
+.align-center{
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+.container-fluid {
+padding: 5% 15% ;
+}
+
+/* main header section */
+
+.header-shadow {
+  background-color:rgba(192,192,192,0.3);
+  border-radius: 20px;
+
+
+}
+
+#main-header .navbar {
+
+  padding-bottom: 5rem;
+}
+
+
+.navbar-link {
+  margin: 0 18px;
+
+
+}
+
+/* .main-img {
+
+} */
+
+
+
+.nav-item {
+
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+
+
+
+#main-header .container-fluid{
+  padding: 0 15% 10%;
+}
+
+#main-header h1 {
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.fa-leaf {
+  color: white;
+}
+
+.btn-know {
+  color: white;
+}
+
+.btn-start {
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 18px;
+
+  color: #ffffff;
+  font-size: 20px;
+  background: #318162;
+  padding: 5px 20px;
+  text-decoration: none;
+}
+
+
+/* our services section */
+
+.card-img-overlay {
+  display: flex;
+  align-items: flex-end;
+
+
+}
+
+.card-contant {
+ width: 100%;
+  border: 1px #EAF6F6 solid;
+  padding: 2%;
+  box-shadow: 1px 1px 3px 0 rgb(0 0 0 / 20%);
+}
+
+/* know us section */
+
+.know-us{
+  background-color:#9db1a2;
+}
+
+
+
+.know-us-img {
+  width: 100%;
+  border-radius: 10px;
+
+}
+
+.know-us-disc-col {
+  display: flex;
+  align-items: center;
+}
+
+
+/* why-vigin section */
+
+
+.card {
+  border: 0;
+  text-align: right;
+
+}
+
+.card .fa-leaf {
+  color: #318162;
+  display: inline-block;
+}
+
+.card p {
+  color: gray;
+}
+
+
+/* contact us section */
+
+
+#contact_us {
+  background-color: #318162;
+  margin-bottom: 2%;
+}
+
+.social {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.icons-al {
+  margin: 1rem 1rem 0 ;
+}
+
+.formpadding{
+  padding-bottom: 0.4rem;
+}
+
+.forminput {
+  width: 100%;
+  text-align: right;
+  padding: 10px;
+  border: 1px gray solid;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.formbtn{
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 18px;
+  color: #64aebc;
+  font-size: 20px;
+  background: #dfe5e5;
+  padding: 5px 20px;
+  width: 100%;
+
+}
